@@ -1,0 +1,28 @@
+#maintext{
+    color:aquamarine;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
+}
+h1{
+    color:burlywood
+}
+
+
+
+#noto-sans-jp-a> {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 101;
+  font-style: normal;
+}
+
+.jacquard-12-regular {
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  
